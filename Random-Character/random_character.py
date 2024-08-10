@@ -22,7 +22,6 @@ player_image = pygame.image.load('icon.png')
 player_image = pygame.transform.scale(player_image, (40,40))
 
 #random character
-length = 1
 chars = string.ascii_letters
 print(chars)
 random_string=random.choice(chars)
