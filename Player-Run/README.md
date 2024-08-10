@@ -57,7 +57,6 @@ So this code it is useful to quit the game.
 ### pygame.display.flip()
 You see this code right. So this code is used to update all process, like when we want to make it move or add any attribute we have to mention it. It is up to date.
 ## How Bg Moving
-Here is code.
     for i in range(0, t_width):
         dis.blit(bg,(i*bg_width+lives,0))
     lives-=5
