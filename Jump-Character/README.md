@@ -1,4 +1,5 @@
 # Jump with Character
+---
 We try to make it jump up to letter show in the box. How?
 ## Alphabet Key
         key_map = {
@@ -17,8 +18,8 @@ We try to make it jump up to letter show in the box. How?
             pygame.K_y: 'Y', pygame.K_z: 'Z'
         }
     }
-#### In this section we have to store a dicitonary of key alphabet, like if we press key a so what it is value so its value is a. 
-#### pygame.k_a mean key press, so key a and the value is a.
+In this section we have to store a dicitonary of key alphabet, like if we press key a so what it is value so its value is a. 
+pygame.k_a mean key press, so key a and the value is a.
 ## In While Loop
     keys = pygame.key.get_pressed()
         for key_upper, value_upper in key_map['upper_letter'].items():
@@ -30,9 +31,14 @@ We try to make it jump up to letter show in the box. How?
                 jump = False
             elif value_lower == random_string and keys[key_lower]:
                 jump = True
-#### This is the code to make it jump up to letters
-#### pygame.key.get_pressed() we use it proecess when key is pressed. It is better than pygame.KEYDOWN.
-#### pygame.key.get_mod() use to mentioned mod key like crt, shift...
-#### for the first for loop in condition if. We set this condtion to allow user to type upper key up to letter in the box.
-#### Second for loop in first condition we set jump is False becase it is lowwer letter showing. So if the type ctr, jump doesn't process.
-#### Otherwise jumpt set to True.
+This is the code to make it jump up to letters
+##### pygame.key.get_pressed() 
+we use it proecess when key is pressed. It is better than pygame.KEYDOWN.
+##### pygame.key.get_mod() 
+We use it to mentioned mod key like crt, shift...
+##### for the first for loop in condition if. 
+We set this condtion to allow user to type upper key up to letter in the box.
+##### Second for loop in first condition 
+We set jump is False becase it is lowwer letter showing. So if the type ctr, jump doesn't process.
+##### Last condition 
+jump set to True, so it process.
