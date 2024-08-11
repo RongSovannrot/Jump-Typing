@@ -16,7 +16,7 @@ My project talk about the typing game. We use python to built it. We use python 
 - [How to use Project](#how-to-use-project)
     - [How to built it?](#how-to-built-it)
     - [Here is the step:](#here-is-the-step)
-        - [Player Run ---\> Go ReadMe](#player-run-----go-readme)
+        - [Player Run](#player-run)
         - [Box Moving](#box-moving)
         - [Play Jump](#play-jump)
         - [Random Character](#random-character)
@@ -41,7 +41,7 @@ Typing Jump we can play it by typing on keyboard up to letter show in the box. I
 I built as a algorism, divide it into small part. Then, put it to the main one.
 ### Here is the step:
 
-##### Player Run ---> [Go ReadMe](C:\Users\Administrator\Desktop\Project\Jumpy-Typing\Jump-Typing\Player-Run\README.md)
+##### Player Run
 
 ##### Box Moving
 
