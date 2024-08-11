@@ -10,7 +10,7 @@ Jump is a feature of this game to play.
     y_g = 1 
     y_h = 15
     y_v = y_h
-These code is the prompt of player ot jump
+These variable is the prompt of player to jump
 ## Process
 This process is used in while loop.
 ### Code
@@ -21,6 +21,8 @@ This process is used in while loop.
             jump = False
             y_v = y_h
     dis.blit(player_img, (p_x, p_y))
+##### dis.blit()
+We use this attribute to set the Player where should its position.
 So this code is used to make our player jump. Anyway we have to type to process jumping. 
 ## Type To Jump
 When we type any keyboard the player will jump.
@@ -30,6 +32,7 @@ When we type any keyboard the player will jump.
                 run=False
             if event.type == pygame.KEYDOWN:
                 jump = True
-#### if event.type == pygame.KEYDOWN
+##### if event.type == pygame.KEYDOWN
 This condition is used to make sure if the user typed.
-So event.type == pygame.KEYDOWN mentioned key on keyboard to type. They type the process is worked.
+##### event.type == pygame.KEYDOWN 
+It mentioned key on keyboard to type. They type, the process is worked.
