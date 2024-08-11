@@ -42,24 +42,24 @@ I built as a algorism, divide it into small part. Then, put it to the main one.
 ### Here is the step:
 
 ##### Player Run
-[Code](Player-Run/playerrun.py)
-[ReadMe](Player-Run/README.md)
+- [Code](Player-Run/playerrun.py)
+- [ReadMe](Player-Run/README.md)
 
 ##### Box Moving
-[Code](Box-Move/boxmove.py)
-[ReadMe](Box-Move/README.md)
+- [Code](Box-Move/boxmove.py)
+- [ReadMe](Box-Move/README.md)
 
 ##### Play Jump
-[Code](Player-Jump/playerjump.py)
-[ReadMe](Player-Jump/README.md)
+- [Code](Player-Jump/playerjump.py)
+- [ReadMe](Player-Jump/README.md)
 
 ##### Random Character
-[Code](Random-Character/random_character.py)
-[ReadMe](Random-Character/README.md)
+- [Code](Random-Character/random_character.py)
+- [ReadMe](Random-Character/README.md)
 
 ##### Jump up to Character
-[Code](Jump-Character/jump_with_character.py)
-[ReadMe](Jump-Character/README.md)
+- [Code](Jump-Character/jump_with_character.py)
+- [ReadMe](Jump-Character/README.md)
 
 # Credit
 ---
@@ -75,22 +75,9 @@ MIT License
 
 Copyright (c) [2024] [Sunrise Lover]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-...
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 # Contribute
