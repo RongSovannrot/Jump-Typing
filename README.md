@@ -1,9 +1,11 @@
 # Typing Jumping
 --------------------------------------------------------------
 This is a mini project work as a team. So we choose Typing Jumping which is a kind of typing game. We choose it becasue this game can be an entertainment and also improve our skill of typing.
+
 # Decription
 --------------------------------------------------------------
 My project talk about the typing game. We use python to built it. We use python becasue it is a friendly language. Anyway we use some library such as pygame, random, string, math. These feature is really useful for us to develop our project. Pygame is a important part, pygame is a library for handle our project. Random is used to random letter. String is used to import alphabet and math is used to calculate. Although Python is a friendly language, but it challenge for use, becuase some of library we don't know at all. Espacailly, Pygame. So, we try hard to study new knowledge.
+
 # Table of Content
 ---------------------------------------------------------------
 - [Decription](#decription)
@@ -11,7 +13,6 @@ My project talk about the typing game. We use python to built it. We use python 
 - [How to use Project](#how-to-use-project)
 - [Credit](#credit)
 - [License](#license)
-- [Contribute](#contribute)
 
 # Installation
 ---
@@ -66,8 +67,3 @@ Copyright (c) [2024] [Sunrise Lover]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-# Contribute
-
-
-
