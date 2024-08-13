@@ -63,11 +63,11 @@ I built as a algorism, divide it into small part. Then, put it to the main one.
 
 # Credit
 ---
-- Leader : Be Youkrong
-- Member : Tork Pirawin
+- Leader : Be Youkrong https://github.com/Youkorngbe
+- Member : Tork Pirawin https://github.com/TorkPhirawin
 - Member : Kim Haiy
-- Member : Sea Meansombatpothy
-- Member : Rong Sovannrot
+- Member : Sea Meansombatpothy https://github.com/seameansambathpothy
+- Member : Rong Sovannrot https://github.com/dashboard
 
 # License
 ---
@@ -78,7 +78,6 @@ Copyright (c) [2024] [Sunrise Lover]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 
 # Contribute
 
