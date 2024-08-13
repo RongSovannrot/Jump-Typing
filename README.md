@@ -6,21 +6,9 @@ This is a mini project work as a team. So we choose Typing Jumping which is a ki
 My project talk about the typing game. We use python to built it. We use python becasue it is a friendly language. Anyway we use some library such as pygame, random, string, math. These feature is really useful for us to develop our project. Pygame is a important part, pygame is a library for handle our project. Random is used to random letter. String is used to import alphabet and math is used to calculate. Although Python is a friendly language, but it challenge for use, becuase some of library we don't know at all. Espacailly, Pygame. So, we try hard to study new knowledge.
 # Table of Content
 ---------------------------------------------------------------
-- [Typing Jumping](#typing-jumping)
 - [Decription](#decription)
-- [Table of Content](#table-of-content)
 - [Installation](#installation)
-        - [First Step](#first-step)
-        - [Second Step](#second-step)
-        - [Follow this to others library](#follow-this-to-others-library)
 - [How to use Project](#how-to-use-project)
-    - [How to built it?](#how-to-built-it)
-    - [Here is the step:](#here-is-the-step)
-        - [Player Run](#player-run)
-        - [Box Moving](#box-moving)
-        - [Play Jump](#play-jump)
-        - [Random Character](#random-character)
-        - [Jump up to Character](#jump-up-to-character)
 - [Credit](#credit)
 - [License](#license)
 - [Contribute](#contribute)
